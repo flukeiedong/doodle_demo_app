@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571155555767",
+    "project_id": "doodleapp-5c57e",
+    "storage_bucket": "doodleapp-5c57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571155555767:android:af98656e64360976a7b432",
+        "android_client_info": {
+          "package_name": "losuvalna.doodle_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571155555767-dosvn2flvbtoakr75594rvrnb1o75sog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiR33CqtHDE_v4NrhWVeUpOlEnrlKyo3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571155555767-dosvn2flvbtoakr75594rvrnb1o75sog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
